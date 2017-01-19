@@ -1,0 +1,19 @@
+.ukk .ukk-head{
+	display: block;
+	width: 100%;
+	color: #fff;
+	text-decoration: none;
+	box-shadow: none;
+	background-color: #2e2e2e;
+	padding: 10px;
+}
+.ukk .ukk-head:hover, .ukk-head:active, .ukk-head:focus{
+	background-color: #444444;
+	color: #fff;
+	text-decoration: none;
+	box-shadow: none;
+}
+.ukk .ukk-answer{
+	display: none;
+	margin: 35px 0;
+}

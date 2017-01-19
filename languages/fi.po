@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-01-19 11:00+0200\n"
+"PO-Revision-Date: 2017-01-19 11:01+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: easyList.php:23 easyList.php:24
+msgid "FAQ"
+msgstr "UKK"
+
+#: easyList.php:25
+msgid "Add New FAQ"
+msgstr "Lisää uusi UKK"
+
+#: easyList.php:26
+msgid "Edit FAQ"
+msgstr "Muokkaa UKK:tä"
+
+#: easyList.php:27
+msgid "New FAQ"
+msgstr "Uusi UKK"
+
+#: easyList.php:28
+msgid "View FAQ"
+msgstr "Näytä UKK"
+
+#: easyList.php:34
+msgid "Groups"
+msgstr "Ryhmät"
+
+#: easyList.php:35
+msgid "Group"
+msgstr "Ryhmä"
+
+#: easyList.php:36
+msgid "All Groups"
+msgstr "Kaikki ryhmät"
+
+#: easyList.php:37
+msgid "Edit Group"
+msgstr "Muokkaa ryhmää"
+
+#: easyList.php:38
+msgid "View Group"
+msgstr "Näytä ryhmä"
+
+#: easyList.php:39
+msgid "Update Group"
+msgstr "Päivitä ryhmä"
+
+#: easyList.php:40
+msgid "Add New Group"
+msgstr "Lisää uusi ryhmä"
+
+#: easyList.php:41
+msgid "New Group"
+msgstr "Uusi ryhmä"
+
+#: easyList.php:42
+msgid "Popular Groups"
+msgstr "Suositut ryhmät"
+
+#: easyList.php:68
+msgid "Enter question here"
+msgstr "Kirjoita kysymys tähän"
+
+#~ msgid "Headings"
+#~ msgstr "Väliotsikot"
+
+#~ msgid "Heading"
+#~ msgstr "Väliotsikko"
+
+#~ msgid "All Headings"
+#~ msgstr "Kaikki väliotsikot"
+
+#~ msgid "Edit Heading"
+#~ msgstr "Muokkaa väliotsikkoa"
+
+#~ msgid "View Heading"
+#~ msgstr "Näytä väliotsikko"
+
+#~ msgid "Update Heading"
+#~ msgstr "Päivitä väliotsikko"
+
+#~ msgid "Add New Heading"
+#~ msgstr "Lisää uusi väliotsikko"
+
+#~ msgid "New Heading"
+#~ msgstr "Uusi väliotsikko"
+
+#~ msgid "Popular Headings"
+#~ msgstr "Suositut väliotsikot"

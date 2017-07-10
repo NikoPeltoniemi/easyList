@@ -19,7 +19,7 @@
 
 function pfn_ukk_setup_post_types(){
 
-	$sst_ukk_labels = array(
+	$pfn_ukk_labels = array(
 		'name' => __('FAQ', 'pfn-ukk'),
 		'singular_name' => __('FAQ', 'pfn-ukk'),
 		'add_new_item' => __('Add New FAQ', 'pfn-ukk'),
@@ -28,7 +28,7 @@ function pfn_ukk_setup_post_types(){
 		'view_item' => __('View FAQ', 'pfn-ukk'),
 		);
 
-	register_post_type( 'pfn-ukk', array('labels' => $sst_ukk_labels, 'public' => true, 'menu_position' => 5, 'menu_icon' => 'dashicons-info') );
+	register_post_type( 'pfn-ukk', array('labels' => $pfn_ukk_labels, 'public' => true, 'menu_position' => 5, 'menu_icon' => 'dashicons-info') );
 
 	$ukk_heading_labels = array(
 		'name' => __('Groups', 'pfn-ukk'),
@@ -44,7 +44,7 @@ function pfn_ukk_setup_post_types(){
 
 	register_taxonomy( 'ukk-heading', 'pfn-ukk', array( 'labels' => $ukk_heading_labels, 'public' => true, 'show_admin_column' => true ) );
 }
-add_action( 'init', 'sst_ukk_setup_post_types');
+add_action( 'init', 'pfn_ukk_setup_post_types');
 
 function pfn_taxonomy_add_new_meta_field(){
 	?>
